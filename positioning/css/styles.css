@@ -1,0 +1,48 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, p {
+	margin: 0;
+}
+
+#float {
+	float: right;
+}
+
+#corner {
+	position: absolute;
+	top: 770px;
+	right: 250px;
+}
+
+#upper {
+	background-color: green;
+	right: 0;
+	top: 0;
+	position: fixed;
+
+	z-index: 20;
+}
+
+#last {
+	position: relative;
+}
+
+#red {
+	background-color: red;
+	position: absolute;
+	/*left: 340px;
+	bottom: 220px;*/
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#black {
+	background-color: black;
+	position: absolute;
+	left: 345px;
+	bottom: 200px;
+}
