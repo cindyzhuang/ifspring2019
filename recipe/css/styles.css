@@ -1,0 +1,154 @@
+body {
+	font-family: 'Catamaran', sans-serif;
+	margin-left: 10px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h2 {
+	font-family: 'Catamaran', sans-serif;
+}
+
+#top {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+h1 {
+	font-size: 40px;
+	text-transform: uppercase;
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	color: #635F5C
+}
+
+#top h2 {
+	font-size: 18px;
+	text-align: center;
+	margin-left: 50px;
+	margin-right:50px;
+	line-height: 20px;
+	font-weight: lighter;
+
+}
+
+#pic img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#intro p {
+	font-size: 15px;
+	text-align: center;
+	line-height: 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	color: #635F5C;
+}
+
+#intro p span {
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	color:gray;
+}
+
+#ingredients h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-bottom: 0px;
+	color:#635F5C;
+
+}
+
+#ingredients ul {
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	line-height: 25px;
+
+}
+
+#directions h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-bottom: 0px;
+	color:#635F5C;
+}
+
+#directions ol {
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	line-height: 25px;
+	margin-right: 20px;
+}
+
+#fold a {
+	color: #635F5C;
+	font-family: 'Lato', sans-serif;
+	margin-left: 250px;
+	font-size: 13px;
+}
+
+.heart {
+	margin:auto;
+	margin-left: 100px;
+	padding: 10px;
+	padding-left: 30px;
+	background-color:#635F5C ;
+	font-size: 20px;
+	margin-right: 100px;
+	margin-bottom: 30px;
+}
+
+i#btn_heart {
+	color:white;
+
+}
+#fold h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-bottom: 5pxpx;
+	color:#635F5C;
+
+}
+
+#fold img {
+	margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#fold p {
+	margin-top: 5px;
+	line-height: 15px;
+	color:#635F5C;
+	font-size: 13px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#lastpart {
+	background-color: #635F5C;
+}
+
+#lastpart p {
+	margin-left: 10px;
+	color: white;
+	font-size: 7px;
+}
+
+
