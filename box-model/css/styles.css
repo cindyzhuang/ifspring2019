@@ -1,0 +1,160 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	font-size: 39px;
+
+}
+
+header {
+	text-align: center;
+	background-image:url('../images/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 319px;
+	padding-top: 163px;
+}
+
+header h1 {
+	font-size: 80px;
+	margin-bottom: 13px;
+	color: white;
+}
+
+#second {
+	background-color: rgb(0, 153, 204);
+	height:705px;
+}
+
+.center_column {
+	/* width: 100%; */
+	padding: 40px 0 40px 0;
+    width: 960px;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+
+header h2 {
+	font-size: 30px;
+	color:white;
+
+}
+
+section h3 {
+	font-size: 39px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-right: 0px;
+	color:white;
+
+}
+
+p {
+	font-size: 19px;
+	line-height: 21px;
+	color:white;
+
+}
+
+.floated {
+	float: right;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
+
+
+h4 {
+	margin: 15px 0px 20px 0px;
+	height: 70px;
+	padding-top: 20px;
+	color: #000080;
+	
+}
+section h4 {
+	margin-top: 0px;
+	padding-right: 9px;
+	text-align: center;
+	padding-top: 13px;
+}
+
+h5 {
+	font-size: 20px;
+	padding-left: 25px;
+}
+
+#third {
+
+    border-top: none;
+    border-bottom: 20px;
+    background-color: #00BFFF;
+    height:696px;
+}
+
+#third .center_column .picture {
+	width: 50%;
+	display: inline-block;
+
+}
+
+#third .center_column .picture h5{
+	font-size: 20px;
+	margin: 0 0 6px 0;
+	padding: 0;
+	color: #000080;
+}
+
+#third .center_column .picture img {
+	width: 200px; 
+	height: 150px;
+	margin: 0 12px 0 0;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.text {
+	margin-right: 10px;
+}
+
+#last .center_column .last_text p {
+	color:white;
+	font-size: 25px;
+	line-height: 40px;
+	text-align: center;
+	margin-right: 104px;
+	margin-left: 100px;
+
+}
+
+#last {
+	background-color: #6495ED;
+	height: 396px;
+
+}
+h6 {
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+
+.lastpart {
+	background-color:#4169E1;
+	height: 100px;
+	margin-bottom: 0px; 
+}
+
+.lastpart p {
+	margin-left: 12px;
+	padding-top: 43px;
+}
+
+
+
+
+
